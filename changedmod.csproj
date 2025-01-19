@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\tModLoader.targets" />
+  <PropertyGroup>
+    <AssemblyName>changedmod</AssemblyName>
+    <TargetFramework>net6.0</TargetFramework>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AdditionalFiles Remove="Tile\**" />
+    <Compile Remove="Tile\**" />
+    <EmbeddedResource Remove="Tile\**" />
+    <None Remove="Tile\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="BlackLatexBlock.png" />
+    <None Remove="BlackLatexTile.png" />
+    <None Remove="Content\EmoteBubbles\PuroEmote.png" />
+    <None Remove="Content\Items\Baton.png" />
+    <None Remove="Content\Items\Placeable\AeriniteBar.png" />
+    <None Remove="Content\Items\Placeable\DryDirtBlock.png" />
+    <None Remove="Content\Items\Placeable\Furniture\BlueOfficeChair.png" />
+    <None Remove="Content\Items\Placeable\Furniture\DocumentPaper.png" />
+    <None Remove="Content\Items\Placeable\Furniture\GreenOfficeChair.png" />
+    <None Remove="Content\Items\Placeable\Furniture\IrisScanner.png" />
+    <None Remove="Content\Items\Placeable\Furniture\Lab_Tile.png" />
+    <None Remove="Content\Items\Placeable\Furniture\MountBookest.png" />
+    <None Remove="Content\Items\Placeable\Furniture\MusicBoxCrystalZone.png" />
+    <None Remove="Content\Items\Placeable\Furniture\PackingBox.png" />
+    <None Remove="Content\Items\Placeable\Furniture\PackingBoxKey.png" />
+    <None Remove="Content\Items\Placeable\Furniture\RedOfficeChair.png" />
+    <None Remove="Content\NPCs\WhiteKnight.png" />
+    <None Remove="Content\NPCs\WhiteLatexBugItem.png" />
+    <None Remove="Content\NPCs\WhiteLatexBugNPC.png" />
+    <None Remove="Content\Projectiles\SparklingBall.png" />
+    <None Remove="Content\Tiles\AeriniteBar.png" />
+    <None Remove="Content\Tiles\Furniture\LabTable.png" />
+    <None Remove="Content\Tiles\Lab_TileTile.png" />
+    <None Remove="WhiteLatexBlock.png" />
+    <None Remove="WhiteLatexTile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="tModLoader.CodeAssist" Version="0.1.*" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Content\Items\Accesories\" />
+    <Folder Include="Dialouge\" />
+  </ItemGroup>
+</Project>

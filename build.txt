@@ -1,0 +1,3 @@
+displayName = Changed: Terraria Mod
+author = xethogd
+version = 0.7

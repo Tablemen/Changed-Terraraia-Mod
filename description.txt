@@ -1,0 +1,47 @@
+Changed Mod is a Terraria mod about the game Changed by DragonSnow, this mod will have underground labs. Latex Creatures. And New Weapons and armor. With new tiles.
+
+Patchnotes
+
+--Update 0.5
+
+----added black latex block
+----added white latex block
+----added white latex creature
+----added Bat
+----added Reinforced Bat
+----added Baton
+----added Sparkle
+
+--Update 0.7
+
+----renamed white latex creature to white knight
+----redesigned white knight
+----added male black latex
+----added female black latex
+----added aerinite ore
+----added aerinite bar
+----added aerinite pickaxe
+----added hazmat armor (boots)
+----added disguise (unfinished)
+
+--Update 1.0 (next update)
+
+----added city ruins biome
+----added lab structures
+----added aerinite shortsword
+----added aerinite sword
+----added aerinite bow
+----added aerinite axe
+----added aerinite hammer
+----added hazmat armor (finished)
+----added disguise (finished)
+----added Spear
+----added transfur effect when being attacked by a latex creature
+----added Xetho (town npc, upside down white latex with yellow spiral design)
+----added Hayden (town npc, fennec fox)
+
+Credits:
+
+(Art)
+xethogd#1874 <Discord>
+@Hayden_FencFoxo <Twitter>

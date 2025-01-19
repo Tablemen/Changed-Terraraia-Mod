@@ -1,0 +1,618 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	StaffBat: {
+		DisplayName: Staff Bat
+		Tooltip: ""
+	}
+
+	BlackLatexBlock: {
+		DisplayName: Black Latex Block
+		Tooltip: ""
+	}
+
+	Bat: {
+		DisplayName: Bat
+		Tooltip: ""
+	}
+
+	ReinforcedBat: {
+		DisplayName: Reinforced Bat
+		Tooltip: ""
+	}
+
+	WhiteLatexBlock: {
+		DisplayName: White Latex Block
+		Tooltip: ""
+	}
+
+	Baton: {
+		DisplayName: Baton
+		Tooltip: ""
+	}
+
+	Lab_TileBlock: {
+		DisplayName: Lab_ Tile Block
+		Tooltip: ""
+	}
+
+	HazmatLeggings: {
+		DisplayName: Hazmat Leggings
+		Tooltip: ""
+	}
+
+	DisguiseLeggings: {
+		DisplayName: Disguise Leggings
+		Tooltip: ""
+	}
+
+	DocumentPaper: {
+		DisplayName: Document Paper
+		Tooltip: ""
+	}
+
+	BlueOfficeChair: {
+		DisplayName: Blue Office Chair
+		Tooltip: ""
+	}
+
+	GreenOfficeChair: {
+		DisplayName: Green Office Chair
+		Tooltip: ""
+	}
+
+	RedOfficeChair: {
+		DisplayName: Red Office Chair
+		Tooltip: ""
+	}
+
+	CautionTileBlock: {
+		DisplayName: Caution Tile Block
+		Tooltip: ""
+	}
+
+	PackingBox: {
+		DisplayName: Packing Box
+		Tooltip: ""
+	}
+
+	PackingBoxKey: {
+		DisplayName: Packing Box Key
+		Tooltip: ""
+	}
+
+	MountBookest: {
+		DisplayName: Mount Bookest
+		Tooltip: ""
+	}
+
+	LabTileBlock: {
+		DisplayName: Lab Tile Block
+		Tooltip: ""
+	}
+
+	LabDoor: {
+		DisplayName: Lab Door
+		Tooltip: ""
+	}
+
+	AeriniteBar: {
+		DisplayName: Aerinite Bar
+		Tooltip: ""
+	}
+
+	AeriniteOre: {
+		DisplayName: Aerinite Ore
+		Tooltip: ""
+	}
+
+	HaydenPlush: {
+		DisplayName: Hayden Plush
+		Tooltip: ""
+	}
+
+	HaydenPlushKey: {
+		DisplayName: Hayden Plush Key
+		Tooltip: ""
+	}
+
+	MusicBoxCrystalZone: {
+		DisplayName: Music Box Crystal Zone
+		Tooltip: ""
+	}
+
+	StorageBox: {
+		DisplayName: Storage Box
+		Tooltip: ""
+	}
+
+	StorageBoxKey: {
+		DisplayName: Storage Box Key
+		Tooltip: ""
+	}
+
+	LabPipe: {
+		DisplayName: Lab Pipe
+		Tooltip: ""
+	}
+
+	AerinitePickaxe: {
+		DisplayName: Aerinite Pickaxe
+		Tooltip: ""
+	}
+
+	DryDirtBlock: {
+		DisplayName: Dry Dirt Block
+		Tooltip: ""
+	}
+
+	IrisScanner: {
+		DisplayName: Iris Scanner
+		Tooltip: ""
+	}
+
+	LabTable: {
+		DisplayName: Lab Table
+		Tooltip: ""
+	}
+
+	RedWall: {
+		DisplayName: Red Wall
+		Tooltip: ""
+	}
+
+	WhiteWall: {
+		DisplayName: White Wall
+		Tooltip: ""
+	}
+
+	AeriniteBreastplate: {
+		DisplayName: Aerinite Breastplate
+		Tooltip: ""
+	}
+
+	CityRuinsCampfire: {
+		DisplayName: City Ruins Campfire
+		Tooltip: ""
+	}
+
+	CityRuinsTorch: {
+		DisplayName: City Ruins Torch
+		Tooltip: ""
+	}
+
+	DisguiseBreastplate: {
+		DisplayName: Disguise Breastplate
+		Tooltip: ""
+	}
+
+	AeriniteHelmet: {
+		SetBonus: Mods.changedmod.Items.AeriniteHelmet.SetBonus
+		DisplayName: Aerinite Helmet
+		Tooltip: ""
+	}
+
+	AeriniteLeggings: {
+		DisplayName: Aerinite Leggings
+		Tooltip: ""
+	}
+}
+
+NPCs: {
+	WhiteLatexBugNPC.DisplayName: White Latex Bug N P C
+	WhiteLatexFurry.DisplayName: White Latex Furry
+	WhiteKnight.DisplayName: White Knight
+	WhiteBlob.DisplayName: White Blob
+	MaleDarkLatex.DisplayName: Male Dark Latex
+	FemaleDarkLatex.DisplayName: Female Dark Latex
+
+	Puro: {
+		TownNPCMood: {
+		}
+	}
+}
+
+Configs: {
+	ModConfigShowcaseAcceptClientChanges: {
+		RejectChangesDaytime: Mods.changedmod.Configs.ModConfigShowcaseAcceptClientChanges.RejectChangesDaytime
+		DisplayName: Mod Config Showcase Accept Client Changes
+
+		OnlyChangeableDuringNight: {
+			Label: Only Changeable During Night
+			Tooltip: ""
+		}
+
+		SomeNumber: {
+			Label: Some Number
+			Tooltip: ""
+		}
+	}
+
+	changedmodConfig.DisplayName: changedmod Config
+
+	ModConfigShowcaseAccessibility: {
+		DisplayName: Mod Config Showcase Accessibility
+
+		Public: {
+			Label: Public
+			Tooltip: ""
+		}
+
+		Getter: {
+			Label: Getter
+			Tooltip: ""
+		}
+
+		AutoProperty: {
+			Label: Auto Property
+			Tooltip: ""
+		}
+
+		Property: {
+			Label: Property
+			Tooltip: ""
+		}
+
+		IgnoreWithLabelGetter: {
+			Label: Ignore With Label Getter
+			Tooltip: ""
+		}
+
+		PresetA: {
+			Label: Preset A
+			Tooltip: ""
+		}
+
+		PresetB: {
+			Label: Preset B
+			Tooltip: ""
+		}
+
+		Data1: {
+			Label: Data1
+			Tooltip: ""
+		}
+
+		Data2: {
+			Label: Data2
+			Tooltip: ""
+		}
+	}
+
+	ModConfigShowcaseDataTypes: {
+		DisplayName: Mod Config Showcase Data Types
+
+		SomeBool: {
+			Label: Some Bool
+			Tooltip: ""
+		}
+
+		SomeInt: {
+			Label: Some Int
+			Tooltip: ""
+		}
+
+		SomeFloat: {
+			Label: Some Float
+			Tooltip: ""
+		}
+
+		SomeString: {
+			Label: Some String
+			Tooltip: ""
+		}
+
+		SomeEnum: {
+			Label: Some Enum
+			Tooltip: ""
+		}
+
+		SomeByte: {
+			Label: Some Byte
+			Tooltip: ""
+		}
+
+		SomeUInt: {
+			Label: Some U Int
+			Tooltip: ""
+		}
+
+		SomeColor: {
+			Label: Some Color
+			Tooltip: ""
+		}
+
+		SomeVector2: {
+			Label: Some Vector2
+			Tooltip: ""
+		}
+
+		SomePoint: {
+			Label: Some Point
+			Tooltip: ""
+		}
+
+		SomeArray: {
+			Label: Some Array
+			Tooltip: ""
+		}
+
+		SomeList: {
+			Label: Some List
+			Tooltip: ""
+		}
+
+		SomeDictionary: {
+			Label: Some Dictionary
+			Tooltip: ""
+		}
+
+		SomeSet: {
+			Label: Some Set
+			Tooltip: ""
+		}
+
+		itemDefinitionExample: {
+			Label: item Definition Example
+			Tooltip: ""
+		}
+
+		npcDefinitionExample: {
+			Label: npc Definition Example
+			Tooltip: ""
+		}
+	}
+
+	ModConfigShowcaseDefaultValues: {
+		DisplayName: Mod Config Showcase Default Values
+
+		SimpleDefaultInt: {
+			Label: Simple Default Int
+			Tooltip: ""
+		}
+
+		SomeColor: {
+			Label: Some Color
+			Tooltip: ""
+		}
+
+		SomeVector2: {
+			Label: Some Vector2
+			Tooltip: ""
+		}
+
+		ArrayOfString: {
+			Label: Array Of String
+			Tooltip: ""
+		}
+
+		FavoritePokemon: {
+			Label: Favorite Pokemon
+			Tooltip: ""
+		}
+
+		ListOfInts: {
+			Label: List Of Ints
+			Tooltip: ""
+		}
+
+		ListOfVector2: {
+			Label: List Of Vector2
+			Tooltip: ""
+		}
+
+		ListOfItemDefinition: {
+			Label: List Of Item Definition
+			Tooltip: ""
+		}
+
+		DictionaryDefaults: {
+			Label: Dictionary Defaults
+			Tooltip: ""
+		}
+
+		DictionaryDefaults2: {
+			Label: Dictionary Defaults2
+			Tooltip: ""
+		}
+	}
+
+	ModConfigShowcaseLabels: {
+		DisplayName: Mod Config Showcase Labels
+
+		SomeFloat: {
+			Label: Some Float
+			Tooltip: ""
+		}
+
+		StringFormatting: {
+			Label: String Formatting
+			Tooltip: ""
+		}
+
+		Headers: {
+			HeaderIdentifier: Header Identifier Header
+			ChatTagExample: Chat Tag Example Header
+		}
+
+		TypicalHeader: {
+			Label: Typical Header
+			Tooltip: ""
+		}
+
+		LocalizedHeader: {
+			Label: Localized Header
+			Tooltip: ""
+		}
+
+		CoolHeader: {
+			Label: Cool Header
+			Tooltip: ""
+		}
+	}
+
+	ModConfigShowcaseMisc: {
+		DisplayName: Mod Config Showcase Misc
+
+		hsl: {
+			Label: hsl
+			Tooltip: ""
+		}
+
+		collapsedList: {
+			Label: collapsed List
+			Tooltip: ""
+		}
+
+		ListOfInts: {
+			Label: List Of Ints
+			Tooltip: ""
+		}
+	}
+
+	ModConfigShowcaseRanges: {
+		DisplayName: Mod Config Showcase Ranges
+
+		NormalFloat: {
+			Label: Normal Float
+			Tooltip: ""
+		}
+
+		IncrementalRangedFloat: {
+			Label: Incremental Ranged Float
+			Tooltip: ""
+		}
+
+		IncrementByPoint11: {
+			Label: Increment By Point11
+			Tooltip: ""
+		}
+
+		RangedFloat: {
+			Label: Ranged Float
+			Tooltip: ""
+		}
+
+		NormalInt: {
+			Label: Normal Int
+			Tooltip: ""
+		}
+
+		RangedInteger: {
+			Label: Ranged Integer
+			Tooltip: ""
+		}
+
+		ListOfInts: {
+			Label: List Of Ints
+			Tooltip: ""
+		}
+
+		RangedWithIncrementVector2: {
+			Label: Ranged With Increment Vector2
+			Tooltip: ""
+		}
+	}
+
+	ModConfigShowcaseSubpages: {
+		DisplayName: Mod Config Showcase Subpages
+		Headers.SeparatePageExamples: Separate Page Examples Header
+
+		subConfigExample: {
+			Label: sub Config Example
+			Tooltip: ""
+		}
+
+		DictionaryofSubConfigExample: {
+			Label: Dictionaryof Sub Config Example
+			Tooltip: ""
+		}
+	}
+
+	SubConfigExample: {
+		Tooltip: ""
+
+		boost: {
+			Label: boost
+			Tooltip: ""
+		}
+
+		percent: {
+			Label: percent
+			Tooltip: ""
+		}
+
+		enabled: {
+			Label: enabled
+			Tooltip: ""
+		}
+
+		SubA: {
+			Label: Sub A
+			Tooltip: ""
+		}
+
+		SubB: {
+			Label: Sub B
+			Tooltip: ""
+		}
+	}
+
+	SubSubConfigExample: {
+		Tooltip: ""
+
+		whoa: {
+			Label: whoa
+			Tooltip: ""
+		}
+	}
+
+	Common: {
+		LocalizedLabel: Localized Label
+		LocalizedTooltip: ""
+		InterpolatedLabel: Interpolated Text A
+		InterpolatedTooltip: ""
+		LocalizedHeader: Localized Header Header
+	}
+}
+
+Emotes: {
+	PuroEmote.Command: puroemote
+	AerinitePickaxeEmote.Command: aerinitepickaxeemote
+}
+
+Tiles: {
+	PackingBox: {
+		MapEntry0: Mods.changedmod.Tiles.PackingBox.MapEntry0
+		MapEntry1: Mods.changedmod.Tiles.PackingBox.MapEntry1
+	}
+
+	AeriniteOre.MapEntry: Aerinite Ore
+
+	HaydenPlush: {
+		MapEntry0: Mods.changedmod.Tiles.HaydenPlush.MapEntry0
+		MapEntry1: Mods.changedmod.Tiles.HaydenPlush.MapEntry1
+	}
+
+	StorageBox: {
+		MapEntry0: Mods.changedmod.Tiles.StorageBox.MapEntry0
+		MapEntry1: Mods.changedmod.Tiles.StorageBox.MapEntry1
+	}
+
+	MusicBoxCrystalZone.MapEntry: Music Box Crystal Zone
+}
+
+Projectiles.SparklingBall.DisplayName: Sparkling Ball
+WorldGen.AeriniteOrePassMessage: Mods.changedmod.WorldGen.AeriniteOrePassMessage
+
+Biomes: {
+	CityRuinsSurfaceBiome: {
+		DisplayName: City Ruins Surface Biome
+		TownNPCDialogueName: the City Ruins Surface Biome
+	}
+
+	CityRuinsUndergroundBiome: {
+		DisplayName: City Ruins Underground Biome
+		TownNPCDialogueName: the City Ruins Underground Biome
+	}
+}
